@@ -24,11 +24,11 @@ Praktikum ini mempelajari dasar JavaScript dan penerapannya pada halaman HTML, m
    ![latihan 1](ss/foto1.png)
 2. **Latihan 2 — Prompt dan Alert**  
    Menerima input dan menampilkan pesan kepada pengguna.
-4. **Latihan 3 — Operasi Aritmetika**  
+   ![latihan 2](ss/foto2.png)
+3.   **Latihan 3 — Operasi Aritmetika**  
    Melakukan perhitungan menggunakan operator aritmetika.
-5. **Latihan 4 — If–Else**  
-   Menentukan hasil berdasarkan kondisi.
-6. **Latihan 5 — Switch**  
+  ![Latihan 3](ss/foto3.png)
+. **Latihan 5 — Switch**  
    Menjalankan perintah berdasarkan pilihan.
 7. **Latihan 6 — Pengecekan Bilangan Bulat**  
    Memeriksa bilangan genap, ganjil, dan validitas input.
