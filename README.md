@@ -22,7 +22,7 @@ Praktikum ini mempelajari dasar JavaScript dan penerapannya pada halaman HTML, m
 1. **Latihan 1 — Hello World**  
    Menampilkan pesan menggunakan JavaScript.
    ![latihan 1](ss/foto1.png)
-3. **Latihan 2 — Prompt dan Alert**  
+2. **Latihan 2 — Prompt dan Alert**  
    Menerima input dan menampilkan pesan kepada pengguna.
 4. **Latihan 3 — Operasi Aritmetika**  
    Melakukan perhitungan menggunakan operator aritmetika.
