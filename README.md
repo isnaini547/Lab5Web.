@@ -41,6 +41,8 @@ Praktikum ini mempelajari dasar JavaScript dan penerapannya pada halaman HTML, m
    Menghitung total harga dari menu yang dipilih.
    ![latihan 7](ss/foto7.png)
 
+
+
 ## Mini Project — Kalkulator Nilai Mahasiswa
 ![latihan](ss/foto8.png)
 
