@@ -48,27 +48,6 @@ Praktikum ini mempelajari dasar JavaScript dan penerapannya pada halaman HTML, m
 
 Mini project menerima nilai Tugas, UTS, dan UAS, kemudian menghitung nilai akhir, menentukan predikat, dan menampilkan status kelulusan.
 
-Bobot penilaian:
-- Tugas: 30%
-- UTS: 30%
-- UAS: 40%
-
-Program juga memvalidasi nilai agar berada pada rentang 0–100.
-
-## Cara Menjalankan
-1. Buka folder proyek di Visual Studio Code.
-2. Buka file `index.html` menggunakan browser.
-3. Jalankan setiap latihan dan uji fitur yang tersedia.
-4. Simpan screenshot hasil praktikum.
-
-## Dokumentasi Hasil
-Tambahkan screenshot setiap latihan pada bagian ini.
-
-Contoh penulisan gambar:
-
-![Latihan 1](screenshots/latihan1.png)
-
-Sesuaikan nama file gambar dengan screenshot yang benar-benar kamu simpan.
 
 ## Kesimpulan
 Praktikum ini membantu memahami dasar JavaScript dan penerapannya untuk membuat halaman web yang interaktif melalui input pengguna, percabangan, function, dan manipulasi DOM.
