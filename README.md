@@ -28,16 +28,21 @@ Praktikum ini mempelajari dasar JavaScript dan penerapannya pada halaman HTML, m
 3.   **Latihan 3 — Operasi Aritmetika**  
    Melakukan perhitungan menggunakan operator aritmetika.
   ![Latihan 3](ss/foto3.png)
-. **Latihan 5 — Switch**  
+4. **Latihan 4 — Switch**  
    Menjalankan perintah berdasarkan pilihan.
-7. **Latihan 6 — Pengecekan Bilangan Bulat**  
+   ![Latihan 4](ss/foto4.png)
+5. **Latihan 5 — Pengecekan Bilangan Bulat**  
    Memeriksa bilangan genap, ganjil, dan validitas input.
-8. **Latihan 7 — Mengubah Warna Halaman**  
+   ![Latihan 5](ss/foto5.png)
+6. **Latihan 6 — Mengubah Warna Halaman**  
    Mengubah warna latar menggunakan tombol dan function.
-9. **Latihan 8 — Checkbox Menu Makanan**  
+   ![latihan 6](ss/foto6.png)
+7. **Latihan 7 — Checkbox Menu Makanan**  
    Menghitung total harga dari menu yang dipilih.
+   ![latihan 7](ss/foto7.png)
 
 ## Mini Project — Kalkulator Nilai Mahasiswa
+![latihan](ss/foto8.png)
 
 Mini project menerima nilai Tugas, UTS, dan UAS, kemudian menghitung nilai akhir, menentukan predikat, dan menampilkan status kelulusan.
 
